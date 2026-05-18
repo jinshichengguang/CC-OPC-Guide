@@ -53,7 +53,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/demo-avatar.png",
+	avatar: "assets/images/avatar.svg",
 	name: "CC",
 	bio: "记录折腾 OpenClaw、自动化工具和个人项目的心得。",
 	links: [
